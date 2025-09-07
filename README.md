@@ -1,138 +1,129 @@
-# Mario Moris — Creative, Animated GitHub Profile
+# Mario Moris — Creative Coder & Maker (Personalized README)
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mariomoris.mariomoris" alt="visitor-badge" />
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+أنا+Mario+Moris+👋;Designer+•+Frontend+•+NFC+&+Hardware;Let%27s+build+something+interactive...&center=true&size=30" />
-  </a>
-</h1>
+<!-- Header GIF: replace assets/header.gif with your custom animated GIF -->
 
 <p align="center">
-  <img src="assets/header-animated.gif" alt="header-animation" width="90%" />
+  <img src="assets/header.gif" alt="Hi, I'm Mario Moris — header animation" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mariomoris"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mariomoris?label=Follow&style=for-the-badge&logo=github"/></a>
+  &nbsp;
+  <a href="https://github.com/mariomoris?tab=stars"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/mariomoris?style=for-the-badge&logo=github"/></a>
+  &nbsp;
+  <a href="https://github.com/sponsors/mariomoris"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-on%20GitHub-BF4B8A?style=for-the-badge&logo=githubsponsors"/></a>
 </p>
 
 ---
 
-## About — نبذة قصيرة
+## 👋 Hi — I'm Mario
 
-**English**
+Designer, frontend engineer (Flutter & React), SEO enthusiast, and hardware tinkerer. I blend UI/UX design with code and simple electronics to build interactive demos, clinic UX flows, and NFC-powered marketing experiments.
 
-I’m **Mario Moris** — product & web designer, frontend builder (Flutter & React), SEO-focused, and a maker who mixes UI with small electronics (Arduino & NFC). I design in **Figma**, prototype interactive evangelism and clinic experiences, and ship usable interfaces.
-
-**العربية (مصري)**
-
-أنا **ماريو موريس** — مصمم ومنفذ واجهات وتجارب رقمية. بخبَرَة في Figma، Flutter، React وSEO. بحب أشتغل على مشاريع تفاعلية: مواقع عيادات، منصات توعوية، وحلول تسويقية باستخدام NFC وArduino.
+* 🇪🇬 Cairo-based
+* 🎓 Computer Science graduate
+* 💡 Maker: PN532 + 13.56MHz NFC cards, Arduino projects
+* 🧭 Focus: accessible UI, clean frontend architecture, and SEO-driven product pages
 
 ---
 
-## Quick Links — تواصل
+## 🚀 Current project
+
+**NFC Playground & Clinic Check-in** — a small toolkit that turns NFC cards into booking shortcuts, promo cards, and quick patient intake flows. Built prototypes in Flutter Web + a tiny Node backend for analytics. Demo GIF: `docs/nfc-playground.gif`.
+
+---
+
+## 🧰 Toolbox — what I code with
 
 <p align="center">
-  <a href="https://github.com/mariomoris"><img alt="github" src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" /></a>
-  <a href="https://www.linkedin.com/in/mariomoris"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="mailto:mario@example.com"><img alt="email" src="https://img.shields.io/badge/Email-Hello!-green?logo=gmail" /></a>
-  <a href="https://www.behance.net/"><img alt="behance" src="https://img.shields.io/badge/Behance-Design-1769FF?logo=behance" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode"/> &nbsp;
+  <img src="assets/arduino.svg" width="48" height="48" alt="Arduino"/> &nbsp;
+  <img src="assets/nfc-icon.svg" width="48" height="48" alt="NFC"/>
 </p>
 
 ---
 
-## Eye-catching stats & animated visuals
+## ✨ Highlights — what makes my work different
 
-Use these dynamic images to make your profile feel alive:
+* **Design → Code**: I prototype in Figma then build responsive Flutter/React frontends. I make design tradeoffs with SEO in mind.
+* **Interactive hardware demo**: NFC cards (PN532) integrated with booking flows to improve clinic conversions.
+* **Readable, modern code**: prefer clear architecture (clean/Bloc for Flutter, component-driven React with hooks and `clsx`).
 
-```md
-<!-- replace `mariomoris` with your GitHub username -->
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomoris&show_icons=true&theme=radical)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomoris&layout=compact&theme=radical)
+---
+
+## 📚 Blog & Writings (optional)
+
+* *How I used NFC to increase clinic bookings — case study* — `docs/clinic-case-study.md`
+* *Designing evangelism dialogues — UX that respects cultural context* — `docs/evangelism-ux.md`
+
+---
+
+## 📦 Featured repos
+
+<p align="center">
+  <a href="https://github.com/mariomoris/clinic-ux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mariomoris&repo=clinic-ux&theme=dark&bg_color=0d1116" alt="clinic-ux"/></a>
+  &nbsp;
+  <a href="https://github.com/mariomoris/nfc-playground"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mariomoris&repo=nfc-playground&theme=dark&bg_color=0d1116" alt="nfc-playground"/></a>
+</p>
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariomoris&show_icons=true&theme=radical" width="48%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=mariomoris&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 💡 Personal CTA / Want this customized further?
+
+I can:
+
+* Generate a **custom header GIF** that matches your brand (describe colors, icons, text) and export an optimized GIF for README.
+* Produce an **animated skills radar GIF** from your real skill weights (send weights or let me estimate).
+* Fill in your **real GitHub username** and repo pins automatically.
+
+---
+
+## 📁 Quick setup / معاينة محلياً
+
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+# open README in VS Code or GitHub Desktop to preview animations
 ```
 
-> Tip: set theme colors that match your animated header GIF for a consistent look.
-
 ---
 
-## Skills — مهارات بصريّة
-
-<p align="center">
-  <img src="assets/skills-radar.gif" alt="skills-radar" width="380" />
-</p>
-
-**Highlights / المميز**: Figma, Flutter (mobile & web), React, SEO, HTML/CSS, JavaScript, NFC (PN532), Arduino, Git.
-
----
-
-## Spotlight Projects — مشاريع مختارة
-
-### Clinic UX — Case Study
-
-* **What:** Full homepage + booking microflow, sticky headers, SEO optimizations.
-* **Why it's cool:** NFC check-in card links patients directly to booking — instant conversion.
-* **Preview:** `docs/clinic-demo.gif`
-
-### Evangelism Dialogues
-
-* **What:** Story-driven interactive dialogues for respectful faith conversations.
-* **Why:** Content tailored to Muslim visitors with empathetic copy and clear, gentle call-to-actions.
-* **Preview:** `docs/evangelism-demo.gif`
-
-### NFC Playground (PN532)
-
-* **What:** 50 NFC cards + PN532 reader experiments: check-in cards, promo cards for clinics, contact & booking shortcuts.
-* **How to demo:** `playground/nfc-demo.html` or a short GIF at `docs/nfc-demo.gif`.
-
----
-
-## Creative README features included here
-
-* Animated typing intro (typing-svg)
-* Animated header GIF / Lottie export (placed in `assets/`)
-* Skills radar GIF (animated SVG → GIF)
-* Dynamic GitHub stats (readme-stats)
-* Repository pins (pinned repo cards)
-* Collapsible case studies and an easter-egg section
+> Replace placeholders: `assets/header.gif`, `assets/nfc-icon.svg`, `assets/arduino.svg`, and `mariomoris` with your real files and username.
 
 ---
 
 <details>
-  <summary>🎁 Easter egg — سر القراءة (click to open)</summary>
+  <summary>🛠️ Editable checklist</summary>
 
-* Hidden verse or short personal note (put anything you like here). Use this area to show a short personal story, or link to your Mugio shop mockups.
+* [ ] Replace `mariomoris` with your GitHub handle
+* [ ] Add `assets/header.gif` (or ask me to generate it)
+* [ ] Add demo GIFs under `docs/` (clinic, nfc-playground)
+* [ ] Add links to your LinkedIn / Behance / Twitter if you want badges
 
 </details>
 
 ---
 
-## How to personalize (quick checklist)
-
-1. Replace `mariomoris` in dynamic badges with your GitHub username.
-2. Add your real social links and email.
-3. Replace placeholder GIFs in `assets/` (header-animated.gif, skills-radar.gif, docs/\*.gif).
-4. If you want a Lottie animation converted to GIF, I can help export an optimized version for README.
-
----
-
-## Run locally — معاينة README
-
-```bash
-# clone
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-# open README in VS Code or GitHub Desktop to see GIFs and dynamic stats
-```
-
----
-
-## Want me to make it *yours* right now?
-
-* I can:
-
-  * Replace placeholders with real GIFs you send.
-  * Generate a custom header GIF (describe the scene: colors, icons, short tagline).
-  * Produce an animated skills radar GIF from your real skill weights.
-  * Fill GitHub username & social links.
-
----
-
-*This README is built to be creative, animated, and personalized for Mario Moris. Edit `assets/` and `docs/` with your real media to make it truly yours.*
+*If you want — tell me: (1) GitHub username to replace `mariomoris`, (2) a short tagline for the header (e.g. "Designing Clinic UX & NFC Playgrounds"), and (3) colors or icons you want in the header GIF — I will generate the GIF and drop it into `assets/header.gif`.*
